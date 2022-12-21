@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718229198125",
+    "project_id": "flutter-firebase-crud-b0615",
+    "storage_bucket": "flutter-firebase-crud-b0615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718229198125:android:762e585f5a5969f5df2fa4",
+        "android_client_info": {
+          "package_name": "com.kodehive.bootcamp_material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718229198125-pk4pgu926pbenatusuf2ces92e5uig1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyE2o1o1FLaYN3Fie5M2a0b9rQ9GQFUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718229198125-pk4pgu926pbenatusuf2ces92e5uig1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
