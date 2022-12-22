@@ -20,7 +20,11 @@ class _Product {
   }
 }
 
-List<_Product> productData = [_Product(name: "Telur", qty: 3)];
+List<_Product> productData = [
+  _Product(name: "Telur", qty: 3),
+  _Product(name: "Gula", qty: 2),
+  _Product(name: "Tepung", qty: 2)
+];
 
 class ShopListApp extends StatelessWidget {
   const ShopListApp({super.key});
